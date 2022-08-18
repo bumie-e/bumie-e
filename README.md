@@ -1,4 +1,14 @@
 ### Hi there 👋
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)
+![github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white)
+![medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)
+![twitter](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=Twitter&logoColor=white)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumie-e&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bumie-e&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **bumie-e/bumie-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
