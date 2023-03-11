@@ -23,8 +23,8 @@
 I'm also looking for collaborators. Please reach out to me.
 
 ## Published Articles
-- [Technologies changing the way we work]( [https://blog.dataiku.com/the-5-biggest-data-time-sinks ](https://medium.com/@akinremibunmi111/technologies-changing-the-way-we-work-ad91c7d3fa3f )
-- [A Psych View of 2022: A Poetic Developer Tale]( [https://blog.dataiku.com/the-5-biggest-data-time-sinks ](https://medium.com/@akinremibunmi111/a-psych-view-of-2022-a-poetic-developer-tales-e1030308c816 )
+- [Technologies changing the way we work]( https://medium.com/@akinremibunmi111/technologies-changing-the-way-we-work-ad91c7d3fa3f )
+- [A Psych View of 2022: A Poetic Developer Tale]( https://medium.com/@akinremibunmi111/a-psych-view-of-2022-a-poetic-developer-tales-e1030308c816 )
 - [5 big time data sinks]( https://blog.dataiku.com/the-5-biggest-data-time-sinks )
 - [11 unique data dashboards](https://ikigailabs.medium.com/11-unique-designs-to-inspire-your-next-dashboard-f19e2fb57243)
 - [MLOPs Tools for NLP Projects](https://neptune.ai/blog/mlops-tools-for-nlp-projects)
